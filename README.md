@@ -7,14 +7,12 @@ Este proyecto proporciona scripts para convertir archivos JSON a Excel y archivo
 ```sh
 json-excel-converter/
 ├── JsonEmpty/
-├── ExcelEmpty/
-├── CompleteExcel/
-├── JsonComplete/
 │ ├── es/
-│ ├── cat/
+│ ├── ca/
 │ ├── pt/
-│ ├── gal/
-│ └── eus/
+│ ├── gl/
+│ └── eu/
+├── ExcelEmpty/
 ├── jsonToExcel.js
 ├── excelToJson.js
 ├── package.json

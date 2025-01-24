@@ -38,7 +38,7 @@ json-excel-converter/
 2. Ejecuta el siguiente comando para convertir los archivos JSON a Excel:
 
     ```sh
-    npm run json-to-excel
+    npm run jsonToExcel
     ```
 
     Los archivos Excel generados se guardarán en la carpeta `ExcelEmpty`.
@@ -49,7 +49,7 @@ json-excel-converter/
 2. Ejecuta el siguiente comando para convertir los archivos Excel a JSON:
 
     ```sh
-    npm run excel-to-json
+    npm run excelToJson
     ```
 
     Los archivos JSON generados se guardarán en las subcarpetas correspondientes dentro de `JsonComplete`.

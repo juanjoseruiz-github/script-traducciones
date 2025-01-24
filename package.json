@@ -1,0 +1,20 @@
+{
+  "name": "scriptjsonexcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jsonToExcel": "node jsonToExcel.js",
+    "excelToJson": "node excelToJson.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
